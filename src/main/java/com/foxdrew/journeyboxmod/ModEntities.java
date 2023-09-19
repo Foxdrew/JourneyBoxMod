@@ -1,6 +1,6 @@
-package com.example.examplemod;
+package com.foxdrew.journeyboxmod;
 
-import com.example.examplemod.block.custom.journeybox.JourneyBoxBlockEntity;
+import com.foxdrew.journeyboxmod.block.custom.journeybox.JourneyBoxBlockEntity;
 import net.minecraft.world.level.block.entity.BlockEntity;
 import net.minecraft.world.level.block.entity.BlockEntityType;
 import net.minecraftforge.eventbus.api.IEventBus;

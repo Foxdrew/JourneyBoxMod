@@ -1,4 +1,4 @@
-package com.example.examplemod.block.custom.journeybox;
+package com.foxdrew.journeyboxmod.block.custom.journeybox;
 
 import net.minecraft.core.BlockPos;
 import net.minecraft.network.chat.TranslatableComponent;

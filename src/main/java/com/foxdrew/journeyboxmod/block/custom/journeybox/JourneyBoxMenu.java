@@ -1,14 +1,12 @@
-package com.example.examplemod.block.custom.journeybox;
+package com.foxdrew.journeyboxmod.block.custom.journeybox;
 
-import com.example.examplemod.AbstractExtendedContainerMenu;
-import com.example.examplemod.ModMenus;
+import com.foxdrew.journeyboxmod.AbstractExtendedContainerMenu;
+import com.foxdrew.journeyboxmod.ModMenus;
 import net.minecraft.world.Container;
 import net.minecraft.world.SimpleContainer;
 import net.minecraft.world.entity.player.Player;
 import net.minecraft.world.inventory.*;
 import net.minecraft.world.item.ItemStack;
-import net.minecraft.world.level.block.Block;
-import net.minecraft.world.level.block.entity.BlockEntity;
 import org.jetbrains.annotations.NotNull;
 
 public class JourneyBoxMenu extends AbstractExtendedContainerMenu {

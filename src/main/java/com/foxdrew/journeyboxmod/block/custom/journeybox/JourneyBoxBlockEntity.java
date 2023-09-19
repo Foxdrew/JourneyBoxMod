@@ -1,11 +1,9 @@
-package com.example.examplemod.block.custom.journeybox;
+package com.foxdrew.journeyboxmod.block.custom.journeybox;
 
-import com.example.examplemod.JourneyBlockMod;
-import com.example.examplemod.ModEntities;
+import com.foxdrew.journeyboxmod.JourneyBlockMod;
+import com.foxdrew.journeyboxmod.ModEntities;
 
-import com.example.examplemod.Utils;
-import com.mojang.authlib.minecraft.client.MinecraftClient;
-import net.minecraft.client.Minecraft;
+import com.foxdrew.journeyboxmod.Utils;
 import net.minecraft.core.BlockPos;
 import net.minecraft.core.NonNullList;
 import net.minecraft.nbt.CompoundTag;
@@ -14,9 +12,7 @@ import net.minecraft.network.chat.TranslatableComponent;
 import net.minecraft.world.ContainerHelper;
 import net.minecraft.world.entity.player.Inventory;
 import net.minecraft.world.entity.player.Player;
-import net.minecraft.world.entity.vehicle.Minecart;
 import net.minecraft.world.inventory.AbstractContainerMenu;
-import net.minecraft.world.item.Item;
 import net.minecraft.world.item.ItemStack;
 import net.minecraft.world.level.block.entity.BaseContainerBlockEntity;
 import net.minecraft.world.level.block.state.BlockState;

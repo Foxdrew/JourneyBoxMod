@@ -1,6 +1,6 @@
-package com.example.examplemod;
+package com.foxdrew.journeyboxmod;
 
-import com.example.examplemod.block.custom.journeybox.JourneyBoxScreen;
+import com.foxdrew.journeyboxmod.block.custom.journeybox.JourneyBoxScreen;
 import net.minecraft.client.gui.screens.MenuScreens;
 
 public class ModScreens {

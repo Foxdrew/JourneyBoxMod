@@ -1,4 +1,4 @@
-package com.example.examplemod;
+package com.foxdrew.journeyboxmod;
 
 import net.minecraft.core.BlockPos;
 import net.minecraft.world.entity.player.Player;

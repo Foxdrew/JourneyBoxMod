@@ -1,4 +1,4 @@
-package com.example.examplemod;
+package com.foxdrew.journeyboxmod;
 
 import net.minecraft.world.Container;
 import net.minecraft.world.inventory.AbstractContainerMenu;

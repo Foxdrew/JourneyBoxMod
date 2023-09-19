@@ -1,6 +1,6 @@
-package com.example.examplemod;
+package com.foxdrew.journeyboxmod;
 
-import com.example.examplemod.block.custom.journeybox.JourneyBoxMenu;
+import com.foxdrew.journeyboxmod.block.custom.journeybox.JourneyBoxMenu;
 import net.minecraft.world.inventory.AbstractContainerMenu;
 import net.minecraft.world.inventory.MenuType;
 import net.minecraftforge.eventbus.api.IEventBus;

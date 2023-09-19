@@ -1,6 +1,6 @@
-package com.example.examplemod.block.custom.journeybox;
+package com.foxdrew.journeyboxmod.block.custom.journeybox;
 
-import com.example.examplemod.JourneyBlockMod;
+import com.foxdrew.journeyboxmod.JourneyBlockMod;
 import com.mojang.blaze3d.systems.RenderSystem;
 import com.mojang.blaze3d.vertex.PoseStack;
 import net.minecraft.client.gui.screens.inventory.AbstractContainerScreen;

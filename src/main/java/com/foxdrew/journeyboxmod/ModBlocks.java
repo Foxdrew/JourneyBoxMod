@@ -1,6 +1,6 @@
-package com.example.examplemod;
+package com.foxdrew.journeyboxmod;
 
-import com.example.examplemod.block.custom.journeybox.JourneyBoxBlock;
+import com.foxdrew.journeyboxmod.block.custom.journeybox.JourneyBoxBlock;
 import net.minecraft.world.level.block.Block;
 import net.minecraft.world.level.block.state.BlockBehaviour;
 import net.minecraft.world.level.material.Material;
