@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "journeyblockmod:block/journey_box_block"}
+  }
+}

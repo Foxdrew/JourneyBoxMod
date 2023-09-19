@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "journeyblockmod:dildo_block"
+    }
+  ],
+  "result": {
+    "item": "journeyblockmod:dildo",
+    "count": 9
+  }
+}

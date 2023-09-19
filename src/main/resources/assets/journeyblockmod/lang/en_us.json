@@ -1,0 +1,13 @@
+{
+  "item.journeyblockmod.dildo": "Dildo",
+
+  "item.journeyblockmod.dildo_block": "Dildo block",
+  "block.journeyblockmod.dildo_block": "Dildo block",
+
+  "item.journeyblockmod.journey_box_block": "Journey Box",
+  "block.journeyblockmod.journey_box_block": "Journey Box",
+
+  "journey.box.block.open": "Player open Journey Box",
+
+  "journey.box.block.entity": "Journey Box"
+}
